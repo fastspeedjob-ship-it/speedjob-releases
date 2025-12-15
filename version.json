@@ -1,6 +1,6 @@
        {
          "version": "1.0.2",
          "release_date": "2025-12-15",
-         "download_url": "https://github.com/fastspeedjob-ship-it/speedjob-releases/releases/download/v1.0.2/SpeedJob-1.0.2-Setup.exe",
+         "download_url": "https://github.com/fastspeedjob-ship-it/speedjob-releases/releases/download/v1.0.2/SpeedJob.exe",
          "release_notes": "Migliorata velocità sincronizzazione e sistema di aggiornamento.\n- Motore veloce per SpeedJob\n- Migliore barra di avanzamento\n- Fix sistema aggiornamenti"
        }
